@@ -45,15 +45,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ClayHackerTeam"
+    "url": "git+https://github.com/MhmmdAmier"
   },
   "keywords": [
     "WhatsApp Bot"
   ],
-  "author": "@amier_san09. 🇮🇩",
+  "author": "@amier_san09",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ClayHackerTeam"
+    "url": "https://github.com/MhmmdAmier"
   },
-  "homepage": "https://github.com/ClayHackerTeam"
+  "homepage": "https://github.com/MhmmdAmier"
 }
